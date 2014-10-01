@@ -1,0 +1,4 @@
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library\bin\Debug\Poker.Library.dll
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library\bin\Debug\Poker.Library.pdb
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library\obj\Debug\Poker.Library.dll
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library\obj\Debug\Poker.Library.pdb

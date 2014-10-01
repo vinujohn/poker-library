@@ -1,0 +1,7 @@
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\bin\Debug\Poker.Library.UnitTests.dll
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\bin\Debug\Poker.Library.UnitTests.pdb
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\bin\Debug\Poker.Library.dll
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\bin\Debug\Poker.Library.pdb
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\obj\Debug\Poker.Library.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\obj\Debug\Poker.Library.UnitTests.dll
+c:\users\mmmmmmmmmmmmmmmmmmmm\documents\visual studio 2010\Projects\Poker\Poker.Library.UnitTests\obj\Debug\Poker.Library.UnitTests.pdb
